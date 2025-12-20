@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+sentence-transformers
+chromadb
+pdfplumber
+beautifulsoup4
+requests
+openai
+pillow
+pytesseract
